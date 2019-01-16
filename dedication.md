@@ -1,7 +1,7 @@
-# Dedication
+# 贡献
 
-To [Kalyan Varma](http://www.kalyanvarma.net/) and many other seniors at [PESIT](http://www.pes.edu/) who introduced us to GNU/Linux and the world of open source.
+感谢 [KalyanVarma](http://www.kalyanvarma.net/) 和 [Pesit](http://www.pes.edu/) 的许多其他高级工程师引入了GNU/Linux和开源世界。
 
-To the memory of [Atul Chitnis](http://www.nextbigwhat.com/atul-chitnis-obituary-297/), a friend and guide who shall be missed greatly.
+纪念 [Atul Chitnis](http://www.nextbigwhat.com/atul-chitnis-obituary-297/)，一个被怀念的伟大的朋友和导师
 
-To the [pioneers who made the Internet happen](http://www.ibiblio.org/pioneers/index.html). This book was first written in 2003. It still remains popular, thanks to the nature of sharing knowledge on the Internet as envisioned by the pioneers.
+感谢 [pioneers who made the Internet happen](http://www.ibiblio.org/pioneers/index.html)。这本书第一次写于2003年。由于先锋们所设想的在互联网上共享知识的性质，它仍然很受欢迎。
